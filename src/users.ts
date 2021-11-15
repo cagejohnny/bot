@@ -1,4 +1,4 @@
-import DAO from "./dao";
+import DAO from "./dao"
 
 export interface User {
     username: string
